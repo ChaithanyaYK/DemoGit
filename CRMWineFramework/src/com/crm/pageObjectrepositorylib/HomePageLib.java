@@ -21,6 +21,7 @@ public class HomePageLib {
 	
 	public void navigateToLeadPage(){
 		leadsLnk.click();
+		//leads
 	}
 	public void navigateToAccountPage(){
 		accountsLnk.click();
